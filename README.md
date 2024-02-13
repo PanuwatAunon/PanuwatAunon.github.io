@@ -1,4 +1,4 @@
-![download](baner.jpg)
+![download](Baner.jpg)
 # สมุดบันทึก
 
 สำหรับวิชา OOP
