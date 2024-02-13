@@ -1,4 +1,4 @@
-[banner[https://images.app.goo.gl/8KPM91xP2QZSqdmB8]]
+![download](baner.jpg)
 # สมุดบันทึก
 
 สำหรับวิชา OOP
