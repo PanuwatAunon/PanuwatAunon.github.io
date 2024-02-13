@@ -1,4 +1,4 @@
-![download](Baner.jpg)
+![download](ธรรมชาติ.jpg)
 # สมุดบันทึก
 
 สำหรับวิชา OOP
